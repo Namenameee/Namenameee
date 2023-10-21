@@ -1,16 +1,13 @@
-### Hi there 👋
+- 👋 Hi, I’m @Namenameee
+- 🌱 I’m currently a Second-year undergraduate student majoring in AI in South China University of Technology
+- 📫 Reach me by hildarosenquist@gmail.com
 
-<!--
-**Namenameee/Namenameee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Language&Platform&Tools
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,md,latex,raspberrypi" />
+</p>  
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=linux,vscode,docker,git,visualstudio,github,cmake" />
+</p> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align='center'>
