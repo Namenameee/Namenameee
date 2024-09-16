@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Namenameee
-- 🌱 I’m currently a Second-year undergraduate student majoring in AI in South China University of Technology
+- 🌱 I’m currently a Third-year undergraduate student majoring in AI
 - 📫 Reach me by hildarosenquist@gmail.com
 
 #### Language&Platform&Tools
