@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ftfrz
 - 🌱 I’m currently a Third-year undergraduate student majoring in AI
-- 📫 Reach me by hildarosenquist@gmail.com
+- 📫 Reach me by ftfrz@mail.scut.edu.cn
 
 #### Language&Platform&Tools
 <p align="center">
