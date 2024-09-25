@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Namenameee
+- 👋 Hi, I’m @ftfrz
 - 🌱 I’m currently a Third-year undergraduate student majoring in AI
 - 📫 Reach me by hildarosenquist@gmail.com
 
